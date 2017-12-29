@@ -1,0 +1,73 @@
+
+.introduction{
+	height: 900px;
+	background-image: url("timelapse.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+	z-index: 0;
+}
+
+#intro2{
+	background-color: rgba(0, 0, 0, 0.8);
+	margin: 30%
+	height: 400px;
+	position: relative;
+	top: 200px;
+	z-index: 1;
+}
+
+#intro3{
+	color: white;
+	text-align: center;
+	position: relative;
+	z-index: 2;
+	padding: 100px
+}
+
+.division{
+	background-color: black;
+	color: white;
+	margin: 0px;
+}
+
+.division2{
+	background-color: white;
+	color: black;
+	margin: 0px;
+}
+
+#skills{
+	margin: 10px;
+}
+
+.heading{
+	padding: 15px; 
+}
+
+#title{
+	font-size: 8em;
+}
+
+.blocked{
+	width: 300px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+	background-color: white;
+	display: inline-block;
+	margin: 0px 30px;
+	margin-bottom: 20px;
+}
+
+.blocked:hover{
+
+}
+
+.undercard{
+	padding: 10px;
+	text-align: center;
+	color: black;
+}
+
+.imgcard{
+	width: 100%;
+}
